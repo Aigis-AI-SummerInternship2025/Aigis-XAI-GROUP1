@@ -18,7 +18,7 @@ This research project aims to develop an intelligent, explainable conversational
 ### Co-Supervisor:
     Ghanem Gharbi, Ing.
     - Role: Ingineer and Graduate Student 
-    - Institution: ESPRIT, School of Engineers
+    - Institution: Université Gustave Eiffel, Paris
 
 ### Interns:
     * Mohamed Amine Bayar
